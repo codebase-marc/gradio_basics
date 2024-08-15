@@ -1,5 +1,5 @@
 # gradio_basics
-Sample use case of Gradio for CSV ingestion and analytics.
+Sample use cases of Gradio for CSV ingestion and analytics.
 
 Use the "csv_upload.py" file to get started.
 
